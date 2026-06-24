@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Heriya Ahmed</h1>
-<h3 align="center">A passionate frontend full stack developer with background of Applied Physics.</h3>
+<h3 align="center">A passionate full stack developer with background of Applied Physics.</h3>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
